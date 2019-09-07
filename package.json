@@ -1,0 +1,40 @@
+{
+  "name": "avenzey",
+  "version": "1.0.0",
+  "description": "An awesome Discord bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memes"
+  ],
+  "author": "Avenze#8355",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "better-sqlite3": "^5.4.2",
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^11.5.1",
+    "enmap": "^4.8.7",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.4",
+    "google-spreadsheet": "^2.0.7",
+    "google-spreadsheets": "^2.0.0",
+    "http": "0.0.0",
+    "jimp": "^0.6.4",
+    "noblox.js": "^4.2.6",
+    "node-gyp": "^5.0.3",
+    "nodemon": "^1.19.1",
+    "npm": "^6.9.0",
+    "path": "^0.12.7",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "socket.io": "^2.2.0",
+    "uninstall": "0.0.0",
+    "ytdl-core": "^0.29.2"
+  },
+  "devDependencies": {}
+}
